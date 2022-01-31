@@ -2,6 +2,7 @@
     "homepage": "http://saber-mekki.github.io/bootalert",
     "name": "react-bootalert",
     "author": "Saber",
+    "type": "module",
     "version": "3.0.0",
     "license": "MIT",
     "main": "dist/index.js",
